@@ -19,11 +19,11 @@
 
 ## ⌛ 개발 기간
 
-- 2023.07 ~ing
+- 2023년 6월 13일 ~ 2024년 9월 20일
 
 <br>
 
-## :information_desk_person: TYING 프로젝트의 구성원
+## :information_desk_person: 프로젝트의 구성원
 - 황혜인, 조성찬, 홍승현, 이호준, 황제현
 
 <br>
